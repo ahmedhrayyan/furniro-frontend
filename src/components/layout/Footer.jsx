@@ -6,7 +6,7 @@ export default function Footer() {
   }, []);
 
   return (
-    <footer className="fixed bottom-0 w-full">
+    <footer className="bottom-0 w-full">
       <Separator className=" " orientation="horizontal" />
 
       <div className="flex justify-center border-t">
